@@ -35,3 +35,10 @@ for k in rotce:
         k = 1000
     print(f'{year}: {k:.1f}%')
     year += 1
+    
+    
+#Next up:
+    #Reinvestment rate.
+    #Valuation ratios. 
+    #Comparing net tangible assets multiple with the Returns on the net tangible assets.
+    #Point to further research of Whys, if the company looks undervalued.
