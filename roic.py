@@ -91,6 +91,4 @@ print(f'Return on invested capital: {roic}')
 #print(ebit)
 print(f'Net Tangible Assets: {net_tangible_assets}')
 
-#zzzz
-#Trying github stuff
 
