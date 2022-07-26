@@ -90,3 +90,5 @@ net_tangible_assets = ['{:,}'.format(elem) for elem in net_tangible_assets]
 print(f'Return on invested capital: {roic}')
 #print(ebit)
 print(f'Net Tangible Assets: {net_tangible_assets}')
+
+#zzzz
